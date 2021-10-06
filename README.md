@@ -1,6 +1,6 @@
 ## Ola!! Eu Sou Thiago Alves
 
-- 🔭 Hoje trabalho como tecnico em informatica e Suporte em Sistema 
+- 🔭 Hoje trabalho como técnico em informatica e Suporte em Sistema 
 - 🌱 Estudante de Sistemas de Informação 
 - 💬 Entre em contato no email : thiagof2755@gmail.com
 - 😄 100 % T.I

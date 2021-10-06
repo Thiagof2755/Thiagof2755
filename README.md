@@ -7,7 +7,7 @@
 - ⚡ Aberto a ideias ...
 
 
-## Oiii eu sou a Thiago Alves , estudante de Sistemas de Informação !!!
+## Detalhes :
 <div align="center">
   <a href="https://github.com/Thiagof2755">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagof2755&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

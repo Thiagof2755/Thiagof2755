@@ -10,7 +10,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagof2755&theme=tokyonight&show_icons=true&locale=pt-br" alt="Thiago Alves's github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagof2755&theme=tokyonight&show_icons=true&locale=pt-br" alt="Thiago Alves's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagof2755&layout=compact&locale=pt-br&theme=tokyonight&show" />
 </div>
 
@@ -21,9 +21,6 @@
 - 🔧 Especializado em React, JavaScript (ES6), Node.js, PHP, Python e SQL.
 - Estou constantemente explorando novas ferramentas e frameworks para aprimorar minhas habilidades e permanecer atualizado com as tendências da indústria de desenvolvimento web.
 
-
-  <br>
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagof2755&layout=compact&locale=pt-br&theme=tokyonight&show)
 <br>
 ### 🌟 Pronto para contribuir em projetos desafiadores e dinâmicos!
 

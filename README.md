@@ -10,8 +10,7 @@
 
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagof2755&theme=tokyonight&show_icons=true&locale=pt-br" alt="Thiago Alves's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagof2755&layout=compact&locale=pt-br&theme=tokyonight&show" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagof2755&theme=tokyonight&show_icons=true&locale=pt-br" alt="Thiago Alves's github stats" /> 
 </div>
 
 <br>
@@ -22,6 +21,8 @@
 - Estou constantemente explorando novas ferramentas e frameworks para aprimorar minhas habilidades e permanecer atualizado com as tendências da indústria de desenvolvimento web.
 
 <br>
+<div align="center"> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagof2755&layout=compact&locale=pt-br&theme=tokyonight&show" />
+</div>
 ### 🌟 Pronto para contribuir em projetos desafiadores e dinâmicos!
-
 Vamos criar algo incrível juntos! 👨‍💻

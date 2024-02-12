@@ -15,11 +15,15 @@
 
 <br>
 
- 
 - 💻 Atualmente trabalhando como freelancer em Uberlândia.
 - 🔧 Especializado em React, JavaScript (ES6), Node.js, PHP, Python e SQL.
 - Estou constantemente explorando novas ferramentas e frameworks para aprimorar minhas habilidades e permanecer atualizado com as tendências da indústria de desenvolvimento web.
 
+<br><p align="center"><b>Contador de Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thiagof2755}/count.svg" /></p> 
+<br></div>
+
+ 
 <br>
 <div align="center"> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagof2755&layout=compact&locale=pt-br&theme=tokyonight&show" />

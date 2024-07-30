@@ -1,6 +1,6 @@
 # 👋 Olá, sou Thiago Alves!
 
-## 🚀 Desenvolvedor Frontend | Full Stack Entusiasta
+## 🚀 Desenvolvedor  Full Stack 
 
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.thiagoalves.site/)](https://www.thiagoalves.site/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoadev/)

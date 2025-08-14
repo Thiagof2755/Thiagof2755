@@ -1,32 +1,61 @@
-# 👋 Olá, sou Thiago Alves!
+# Thiago Alves
 
-## 🚀 Desenvolvedor  Full Stack 
+**Full Stack Developer | ERP Integrations | Web Solutions**  
+Building integrated and scalable web applications that streamline business processes.
 
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.thiagoalves.site/)](https://www.thiagoalves.site/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoadev/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-alves-396108209/)
+[LinkedIn](https://www.linkedin.com/in/thiago-alves-396108209/)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=154c79&height=150&section=header&animation=twinkling&fontAligny=35"/>
+---
 
+## About Me
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagof2755&theme=tokyonight&show_icons=true&locale=pt-br" alt="Thiago Alves's github stats" /> 
-</div>
+I am a dedicated **Full Stack Developer** with a strong focus on creating integrated solutions that empower businesses.  
+My expertise lies in developing robust **React applications** that seamlessly connect with **ERP systems**, significantly streamlining complex workflows and enhancing operational efficiency.  
 
-<br>
+I also specialize in crafting bespoke websites for companies, ensuring a strong online presence.
 
-- 💻 Atualmente trabalhando como freelancer em Uberlândia.
-- 🔧 Especializado em React, JavaScript (ES6), Node.js, PHP, Python e SQL.
-- Estou constantemente explorando novas ferramentas e frameworks para aprimorar minhas habilidades e permanecer atualizado com as tendências da indústria de desenvolvimento web.
+My approach to development is rooted in **solid engineering principles**, always striving for **scalable application architectures** and adhering to **best practices** in project design.  
+Many of my repositories reflect personal projects and innovative solutions, showcasing my continuous exploration and application of cutting-edge technologies.
 
-<br><p align="center"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thiagof2755}/count.svg" /></p> 
-<br></div>
+---
 
- 
-<br>
-<div align="center"> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagof2755&layout=compact&locale=pt-br&theme=tokyonight&show" />
-</div>
-### 🌟 Pronto para contribuir em projetos desafiadores e dinâmicos!
-Vamos criar algo incrível juntos! 👨‍💻
+## Technical Expertise
+
+### **Frontend Development**
+- React.js, JavaScript (ES6+), TypeScript  
+- Modern HTML5, CSS3, Responsive Design  
+- User Interface (UI) and User Experience (UX) Implementation  
+
+### **Backend Development**
+- Node.js, Express.js, RESTful APIs  
+- Python Applications, PHP Development  
+- API Design and Integration  
+
+### **ERP & Business Systems**
+- **TOTVS Protheus Integration**: Expertise in connecting custom applications with Protheus to automate and optimize business processes.  
+- Data Synchronization & Workflow Automation  
+
+### **Database Management**
+- SQL Databases (MySQL, PostgreSQL)  
+- Database Design, Optimization, and Querying  
+
+### **Architectural Principles**
+- Scalable Application Design  
+- Clean Code & Best Practices  
+- Performance Optimization  
+- Robust Project Engineering  
+
+---
+
+## What I Do
+- **ERP Integration**: Develop and implement integrated React applications that connect with ERP systems like TOTVS Protheus to facilitate and automate business processes.  
+- **Custom Web Solutions**: Design and build tailored websites and web applications for businesses, focusing on functionality, user experience, and performance.  
+- **Process Optimization**: Create innovative software solutions that simplify complex workflows and enhance operational efficiency.  
+- **Scalable Architecture**: Engineer applications with a strong emphasis on scalability, maintainability, and future-proof design.  
+
+---
+
+## Let's Connect
+
+I am always keen to collaborate on challenging projects that leverage modern technologies to solve real-world business problems.  
+**Feel free to reach out!**

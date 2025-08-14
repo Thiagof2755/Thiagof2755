@@ -1,7 +1,7 @@
 # Thiago Alves
 
 **Full Stack Developer | ERP Integrations | Web Solutions**  
-Building integrated and scalable web applications that streamline business processes.
+Creation of integrated and scalable applications that optimize business processes.
 
 [LinkedIn](https://www.linkedin.com/in/thiago-alves-396108209/)
 
